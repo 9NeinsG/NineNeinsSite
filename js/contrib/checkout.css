@@ -1,0 +1,295 @@
+form th {
+    text-align: right;
+    width: 130px;
+    vertical-align: top;
+    padding-top: 10px
+}
+
+form th label {
+    display: block;
+    font: 1em/1.3em 'UbuntuMedium', Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0 4px 6px 0;
+    color: #494949
+}
+
+.bio form th label {
+    min-width: 130px
+}
+
+form .requiredfield label:after,
+form .required label:after {
+    content: ' *'
+}
+
+form input[type=text],
+form input[type=password],
+form input[type=email],
+form input[type=file],
+form input[type=url],
+form input[type=tel] {
+    width: 225px;
+    height: 20px;
+    line-height: 18px;
+    margin-top: 4px;
+    padding-top: 4px
+}
+
+form input[type=text],
+form input[type=password],
+form input[type=email],
+form input[type=url],
+form input[type=tel] {
+    background: #fff;
+    border: 1px solid #b1b1b1;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    padding: 2px 4px
+}
+
+#roomtitleform input[type=text] {
+    width: 300px;
+    height: auto;
+    line-height: normal;
+    margin-top: auto;
+    border: none;
+    padding: 0
+}
+
+form select {
+    width: auto;
+    line-height: 18px;
+    background: #fff;
+    margin-top: 4px;
+    border: 1px solid #b1b1b1;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    padding: 2px 4px
+}
+
+form textarea {
+    width: 350px;
+    line-height: 18px;
+    background: #fff;
+    margin-top: 4px;
+    border: 1px solid #b1b1b1;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    padding: 2px 4px
+}
+
+form input[type=checkbox],
+form input[type=radio] {
+    width: 18px;
+    height: 18px
+}
+
+form .button {
+    display: block;
+    margin: 15px 0 0 137px;
+    color: #fff;
+    width: auto;
+    font: 1.16em/1.0em 'UbuntuMedium', Arial, Helvetica, sans-serif;
+    background: #198ad1 url() no-repeat right 50%;
+    height: 28px;
+    padding: 0 30px 2px 15px;
+    border: 1px solid #b1b1b1;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px
+}
+
+form .button:hover {
+    background-color: #999999;
+    text-decoration: underline;
+    cursor: pointer
+}
+
+form .button:disabled {
+    background-color: #bababa;
+    cursor: default
+}
+
+form ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    -webkit-padding-start: 0;
+    clear: both;
+    display: block
+}
+
+form ul li {
+    float: left;
+    margin: 0 10px 0 0;
+    padding: 0
+}
+
+form .errorlist {
+    background: url() no-repeat 2px 50%;
+    font: .833em ubuntumedium, Arial, Helvetica, sans-serif;
+    color: #666;
+    margin: 5px 0 0 2px;
+    padding: 2px 0 0 20px;
+    display: inline-block
+}
+
+
+.submit_button_footer {
+    display: block;
+    margin: 5px 0 0 140px;
+    font-size: .8em
+}
+
+.formvalidate_error {
+    color: #999999;
+    padding: 0
+}
+
+.formvalidate_spinner {
+    display: inline-block;
+    vertical-align: middle
+}
+
+.formvalidate_spinner img {
+    width: 19px;
+    height: 19px
+}
+
+.formvalidate_hidden {
+    display: none!important
+}
+
+* {
+    font-size: 100.01%
+}
+
+html {
+    font-size: 62.5%
+}
+
+body {
+    margin: 0;
+    color: #494949;
+    min-width: 1003px;
+    font: 1.2em/1.4em 'UbuntuRegular', Arial, Helvetica, sans-serif;
+    background: #fff
+}
+
+
+a {
+    text-decoration: none;
+    color: #0a5a83
+}
+
+a:hover {
+    text-decoration: underline
+}
+
+input,
+textarea,
+select {
+    font: 100% Arial, Helvetica, sans-serif;
+    vertical-align: middle;
+    color: #000
+}
+
+form,
+fieldset {
+    margin: 0;
+    padding: 0;
+    border-style: none
+}
+
+form .description {
+    margin-bottom: 15px
+}
+
+form #error_notice {
+    background-color: #fffee9;
+    border: 1px solid red;
+    text-align: center;
+    width: 80%;
+    padding: 5px;
+    margin: 30px auto 0;
+    color: red;
+    font-weight: 700
+}
+
+form #error_notice p {
+    margin: 4px 0;
+    padding: 0
+}
+
+form .green_form_button {
+    display: block;
+    cursor: auto;
+    color: #fff;
+    width: auto;
+    font: 12px ubuntumedium, Arial, Helvetica, sans-serif;
+    background: #f47321 url() repeat;
+    height: 22px;
+    padding: 2px 7px 1px;
+    margin-top: 6px;
+    border: 1px solid #b1b1b1;
+    text-transform: uppercase;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px
+}
+
+form>.fieldset-wrap {
+    display: block;
+    position: relative
+}
+
+form>.fieldset-wrap>.field-wrap {
+    display: inline-block;
+    margin-right: 1em
+}
+
+legend {
+    display: block;
+    color: #0c6a93;
+    font-size: 1.266em;
+    font-family: ubuntumedium, Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    padding: 10px 0
+}
+
+.button_send {
+    display: inline-block;
+    overflow: hidden;
+    height: 21px;
+    width: auto;
+    padding-left: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    font-size: 12px;
+    font-family: ubuntumedium, Arial, Helvetica, sans-serif;
+    float: right
+}
+
+.button_send a {
+    display: block;
+    padding: 3px 5px 0 0;
+    height: 18px;
+    color: #fff;
+    text-decoration: none
+}
+
+.button_send {
+    background: url() no-repeat 0 -42px;
+    text-shadow: 1px 1px 0 #bc2b1d
+}
+
+.button_send a {
+    background: url() no-repeat right -42px
+}
