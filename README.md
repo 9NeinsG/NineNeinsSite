@@ -6,7 +6,9 @@
 
 <img src="https://i.ibb.co/R4N1ytP/9ps.png" alt="9ps" border="0"><img src="https://i.ibb.co/1GhDTLL/9JS.png" alt="9JS" border="0"><img src="https://i.ibb.co/7CGSGgm/9Pyth.png" alt="9Pyth" border="0">
 <br>
+<center>
 <img src="https://i.ibb.co/8dq631M/dogecoin-doge-logo.png" alt="dogecoin-doge-logo" border="0"><img src="https://i.ibb.co/7zNvjJS/ethereum-eth-logo.png" alt="ethereum-eth-logo" border="0"><img src="https://i.ibb.co/CzVHhTP/monero-xmr-logo.png" alt="monero-xmr-logo" border="0"></a><img src="https://i.ibb.co/0FFXhjw/basic-attention-token-bat-logo.png" alt="basic-attention-token-bat-logo" border="0"><img src="https://i.ibb.co/WWb8Tx7/bitcoin-btc-logo.png" alt="bitcoin-btc-logo" border="0">
+</center>
 <br>
 <img src="https://i.ibb.co/xMt0kLv/Christ.png" alt="Christ" border="0">
 <script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-post="NineNeinsC/1106" data-width="100%" data-dark="1"></script>
