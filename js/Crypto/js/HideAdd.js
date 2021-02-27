@@ -1,13 +1,13 @@
 //Hidden Address
 
 function copyContentsdc() {
-var $temp = $("<input>");
-var content = $('#doge_coin').text();
+  var $temp = $("<input>");
+  var content = $('#doge_coin').text();
 
-$("body").append($temp);
-$temp.val(content).select();
-document.execCommand("copy");
-$temp.remove();
+    $("body").append($temp);
+    $temp.val(content).select();
+    document.execCommand("copy");
+    $temp.remove();
 
 }
 
