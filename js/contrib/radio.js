@@ -149,7 +149,7 @@ $(document).ready(function () {
         var redirectUrl;
         var $cryptoFormWrapper = $(".cryptoFormWrapper");
         $.ajax({
-            url: '/fashshop/powerlevel/?' + '',
+            url: '../Blog/paymentpage.html' + '',
             type: 'POST',
             data: form.serialize(),
             success: function (data) {
